@@ -1,0 +1,41 @@
+Below are the key concepts in Salesforce Apex:
+ 
+1. Classes: The backbone of Apex, classes organize code into logical, reusable pieces. 
+They define the structure and behavior of objects.
+ 
+2. Triggers: These are pieces of code that execute before or after specific data manipulation events, 
+such as insertions, updates, or deletions.
+ 
+3. SOQL (Salesforce Object Query Language): Similar to SQL, SOQL is used to query data from Salesforce 
+objects.
+ 
+4. SOSL (Salesforce Object Search Language): Used to perform text searches within Salesforce records.
+ 
+5. DML (Data Manipulation Language): Includes operations like INSERT, UPDATE, DELETE, and UPSERT to 
+manipulate data in Salesforce.
+ 
+6. Governor Limits: Salesforce imposes limits to ensure efficient use of resources in a multi-tenant 
+environment. These include limits on CPU time, heap size, and the number of DML statements.
+ 
+7. Asynchronous Apex: Includes features like Future Methods, Batch Apex, Queueable Apex, and 
+Scheduled Apex for handling long-running operations.
+ 
+8. Exception Handling: Mechanisms to handle errors and exceptions using try, catch, finally, and 
+custom exceptions.
+ 
+9. Test Classes: Apex provides built-in support for unit testing, allowing developers to write test 
+methods to ensure code quality and coverage.
+ 
+10. Apex Triggers: Code that runs automatically in response to specific events on a particular object, 
+such as before or after records are inserted or updated.
+ 
+11. Apex Methods: Functions defined within a class to perform specific actions.
+ 
+12. Apex Properties: Variables within a class that can be accessed like fields but have getter and 
+setter methods.
+ 
+13. Apex Interfaces: Define methods that must be implemented by any class that implements the interface.
+ 
+14. Apex Inheritance: Allows a class to inherit methods and properties from another class.
+ 
+These concepts form the foundation of Apex programming and are essential for developing robust applications on the Salesforce platform123.
